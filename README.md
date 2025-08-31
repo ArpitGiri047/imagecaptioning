@@ -1,4 +1,5 @@
-# imagecaptioningImage Captioning is a task in the field of Computer Vision and Natural Language Processing (NLP) that involves generating a meaningful description of an image in natural language. It combines image understanding (object recognition, scene analysis) with language modeling (grammar, context, fluency).
+# imagecaptioning
+Image Captioning is a task in the field of Computer Vision and Natural Language Processing (NLP) that involves generating a meaningful description of an image in natural language. It combines image understanding (object recognition, scene analysis) with language modeling (grammar, context, fluency).
 
 2. Objective
 
